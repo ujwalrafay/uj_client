@@ -7,5 +7,6 @@ package main
 import "uj_client/cmd"
 
 func main() {
+	fmt.Println("yoooo")
 	cmd.Execute()
 }
